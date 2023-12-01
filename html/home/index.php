@@ -18,7 +18,7 @@
 </head>
 
     <?php
-    include (".https://tiny-fog-6622.on.fleek.co/html/home/nav/header.php");
+    include ("https://tiny-fog-6622.on.fleek.co/html/home/nav/header.php");
     ?>
         <!-- End Header -->
         <!-- Main -->
